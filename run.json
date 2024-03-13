@@ -1,0 +1,6 @@
+{
+    "apps": {
+        "name": "walletsite",
+        "script": "npm run start"
+    }
+}
